@@ -1,5 +1,5 @@
 
-En este parte tienes que implementar la configuración para poder utilizar [inyección de dependencias con Hilt](https://developer.android.com/training/dependency-injection/hilt-android) en tu Task Planner App.
+En este parte tienes que implementar la configuración para poder utilizar [inyección de dependencias con Hilt](https://developer.android.com/training/dependency-injection/hilt-android) en tu Task Planner App. El laboratorio muestra el código ejemplo para implementar el modelo de inyección de dependencias utilizando un ejemplo ( GoogleAnalyticsService ). La idea es que apliques el mismo concepto para tu configuración de Retrofit y en base al anterior laboratorio
 
 1.  Agrega la dependencia y plugin necesarios para hacer funcionar Hilt:
 2. Añade en el build.gradle a nivel de proyecto el siguiente plugin:
